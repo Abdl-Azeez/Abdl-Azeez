@@ -50,8 +50,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdl-Azeez&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdl-Azeez&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats-8pum72lu1-abdl-azeezs-projects.vercel.app/api?username=Abdl-Azeez&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats-8pum72lu1-abdl-azeezs-projects.vercel.app/api/top-langs/?username=Abdl-Azeez&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
 </p>
 
 ---
