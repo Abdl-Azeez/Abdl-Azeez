@@ -47,7 +47,7 @@
 ```ts
 const abdulazeez = {
   role      : "Frontend Engineer",
-  location  : "Lagos, Nigeria 🇳🇬",
+  location  : "Kuala Lumpur, Malaysia 🇲🇾",
   focus     : ["React", "Next.js", "TypeScript", "TanStack Query"],
   building  : "Production-grade, scalable, user-focused web apps",
   strengths : ["API integration", "real-time systems", "state architecture"],
